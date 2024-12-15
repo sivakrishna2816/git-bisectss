@@ -1,6 +1,6 @@
 echo "welcome"
 
-date 
+dete 
 
 read -p "enter your name"  name 
 
